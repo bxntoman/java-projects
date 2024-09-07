@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=TemperatureConverter
+comment0.text=\n\ A\ simple\ program\ that\ allows\ the\ user\ to\ convert\ temperatures\ from\ Celsius\n\ to\ Fahrenheit.\n\ \n\ @author\ Benjamin\ Letu\n\ @version\ September\ 6,\ 2024\ \n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
